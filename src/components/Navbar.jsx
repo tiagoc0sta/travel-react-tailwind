@@ -71,11 +71,11 @@ const Navbar = () => {
             <button>Account</button>
           </div>
           <div className='flex justify-between my-6'>
-            <FaFacebook />
-            <FaTwitter />
-            <FaYoutube />
-            <FaPinterest />
-            <FaInstagram />
+            <FaFacebook className='icon' />
+            <FaTwitter className='icon' />
+            <FaYoutube className='icon' />
+            <FaPinterest className='icon' />
+            <FaInstagram className='icon' />
           </div>
         </ul>
       </div>
